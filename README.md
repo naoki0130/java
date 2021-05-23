@@ -38,8 +38,8 @@
 シーケンスだけ書いている内容見てもよく理解できていなかったので学習  
 あとは制約とかも忘れていたから復習する必要あり  
 
-[シーケンスって？](https://notepad-blog.com/content/147/)
-[制約のやり方](https://oracle-chokotto.com/ora_const.html)
+[シーケンスって？](https://notepad-blog.com/content/147/)  
+[制約のやり方](https://oracle-chokotto.com/ora_const.html)  
 [commentのつけ方](http://itref.fc2web.com/oracle/sql/comment.html#:~:text=COMMENT%E3%81%AF%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%84%E3%82%AB%E3%83%A9%E3%83%A0,%E4%BB%98%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82)
 
 ## すでにある部署のサーブレットとJSPが何しているか確認
