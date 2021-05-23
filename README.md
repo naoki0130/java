@@ -63,7 +63,7 @@
 - models
   - ConnectionService：DBと接続し, sqlを引数に結果を返す処理が記載されている（これは社員情報でも扱う）
   - DAOinfo：DBアクセス情報を保持している（ConnectionServiceで扱われているので基本ノータッチ）
-  - Post：部署情報をStringで格納できる（DBから引っ張ってきた部署情報or作成してDBに渡すとかに使いそう）
+  - Post：部署情報をStringで格納できる（DBから引っ張ってきた部署情報や作成した部署情報をDBに渡すのとかに使いそう）
   - PostCommonAction：（初期）表示に必要な部署情報をリクエストスコープにセットしている
   - PostModel：新規作成, 編集, 削除, 情報一覧取得等のSQL処理を実行している
 
